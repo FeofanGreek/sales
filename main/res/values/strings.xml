@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Skynetcom Sales</string>
+    <string name="channel_name">TestPUSH</string>
+    <string name="channel_description">Проверка работы PUSH уведомлений</string>
+</resources>
